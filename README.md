@@ -1,5 +1,5 @@
 ## Hello, I'm fids-een!
-<a href="https://discord.com/users/726942742218801223" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
+<a href="https://discord.com/users/726942742218801223" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/726942742218801223.png"/></a>
 <hr> 
 
 ### Tools used:
@@ -10,7 +10,7 @@
 ### Contact:
 
 <p align="left">
-<a href="https://instagram.com/fid.seen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="fid.seen" height="50" width="50" /></a>
+<a href="https://instagram.com/fids.een" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="fids.een" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@fidseen" target="blank"><img align="center" src="https://pomf2.lain.la/f/z3vxfewb.png" alt="ztrdiamond" height="50" width="50" /></a>
 <a href="https://discord.com/invite/z7jwK9bZ"
   target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="z7jwK9bZ" height="50" width="50" /></a>
